@@ -1,0 +1,22 @@
+git push
+remote: Permission to CiccioFra/Java-Ribatti-Francesco.git denied to CiccioFr.
+fatal: unable to access 'https://github.com/CiccioFra/Java-Ribatti-Francesco.git/': The requested URL returned error: 403
+
+git push origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/CiccioFra/Java-Ribatti-Francesco.git'
+
+
+remote set-url origin "git@github.com:CiccioFra/Java-Ribatti-Francesco.git"
+git push
+To github.com:CiccioFra/Java-Ribatti-Francesco.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'github.com:CiccioFra/Java-Ribatti-Francesco.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+git push origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'github.com:CiccioFra/Java-Ribatti-Francesco.git'

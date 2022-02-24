@@ -1,0 +1,6 @@
+Mi chiamo Francesco Ribatti, ho 42 anni,
+ho esercitato la libera professione da geometra sino a 5 anni fa.
+Sono sempre stato appasionato di informatica sin da ragazzo.
+ho fatto un piccolo (ma veramente easy) corso Visual Basic nel 2000.
+Tra luglio ed ottobre del 2021 ho partecipato ad un corso di web developer basato su C#, affrontando anche html5, javascript, css3, SQL Server. Purtroppo, per gravi problemi familiari, non ho potuto seguire il corso per tutto il mese di settembre. 
+ho iniziato questo corso i primi di dicembre.
