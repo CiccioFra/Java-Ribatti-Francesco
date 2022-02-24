@@ -1,4 +1,4 @@
-# Compiled class file
+# Compiled class file / file bytecode
 *.class
 
 # Log file
@@ -21,3 +21,6 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+#aggiunto manualmente *.idea* per non caricare su GitHub tutti i relativi file per compatibilità tra diversi sistemi operativi
+*.idea*
