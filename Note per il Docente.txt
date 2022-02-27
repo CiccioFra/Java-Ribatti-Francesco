@@ -1,0 +1,13 @@
+Buongiorno Filippo,
+nel file  eserciziJavaL2/Codice5Numeri.java 
+- (riga 34-49) ho provato ad inserire un ciclo do while, nel quale è stata bellamente ignorata (senza dare errore) la condizione
+- (riga 61) non permette l'inserimento da cli, ovvero memorizza autonomanemete nella variabile "scelta" il valore "" (sgringa vuota/carattere non visualizzabile), presumo memorizzi il refuso dell'inserzione precedente, ovvero un line feed (il CR dovrebbe averlo "consumato".. sto su win, resta lui: LF), come si rimedia?
+- Non sono riuscito a testare il programma bloccato da queste problematiche sopra dette, ho preferito vedere altri argomenti (dato che ci ho già speso veramente troppo tempo qua sopra) e rinviare la modifica del codice (ed evitare un risultato parziale al desiderato)
+- vorrei poter "sistemare" il codice così da avere in futuro un riferimento per situazioni similari
+----
+nel file eserciziJavaL3/StampaSubitoSommaNumeriArgs.java
+- ho provato a mettere int come tipo della metodo main.. ma accetta solo quelli dei default o si possono cambiare?
+---- per fare LettereComuni (riscaldamento della lezione 3) ci ho messo oltre 1 ora contro 10 min da te indicati.. ho qualche problema
+Ho dedicato tutto il weekend a java, ho trascurato PHP (mi ero ripromesso di dedicargli la domenica), nei prox giorni verrai in modo intensivo, dovrò dedicare qualche pom a PHP, prestissimo iniziaremo Angular.. non riuscirò a stare al passo.. per mia fortuna alcuni concetti li conosco, altri li sto prendendo per fede, ma facendo così non li imprimo (es il costruttore, vorrei capire come funziona, va bene il discorso della sicuzza (fede), se riesco la prox volta che ci vediamo vorrei chiederti, sulla scorta di linee di codice, quali sono i passaggi (salti) che il dato fa.
+Non sono riuscito ad esercitarmi con argomenti della lezione 4 e 5, spero di non rimanere troppo indietro
+Grazie, Francesco
