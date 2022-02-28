@@ -3,4 +3,10 @@ root
 |-|- esempio.txt
 |-|- presentazione.txt
 |-eserciziJavaL2
-|-|- Codice5Numeri.java
+|-|- IndovinaCodice5Numeri.java
+|-eserciziJavaL3
+|-|- AnnoBisestile.java
+|-|- LettereComuni.java
+|-|- StampaSubitoSommaNumeriArgs.java
+|-|- StampaSubitoTestoArgs.java
+
